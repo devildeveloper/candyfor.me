@@ -1,7 +1,8 @@
 require.config({
   "baseUrl":'js/vendor',
   "paths":{
-    "app":"../app"
+    "app":"../app",
+    "analitics":"../app/analitics"
   },
   "shim":{
     "slick":["jquery"]
